@@ -5,7 +5,7 @@
 
 //Input var
 
-//let first_name = prompt("What is your name?");
+//let first_name = prompt("What is your first name?");
 //let last_name = prompt("What is your last name?");
 //let full_name = first_name + " " + last_name;
 
